@@ -12,3 +12,4 @@ Hopefully should be the last color scheme change
 
 [3/08/2021]
 Hopefully fixed banner not stretching across page
+![image](https://user-images.githubusercontent.com/86523368/127936249-444d5276-55f8-46fc-9d8b-f5f3f6063bac.png)
