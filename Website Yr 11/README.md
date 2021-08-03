@@ -13,3 +13,7 @@ Hopefully should be the last color scheme change
 [3/08/2021]
 Hopefully fixed banner not stretching across page
 ![image](https://user-images.githubusercontent.com/86523368/127936249-444d5276-55f8-46fc-9d8b-f5f3f6063bac.png)
+
+[4/08/2021]
+Fixed Main HTML's colorscheme to match that of page 2's
+![image](https://user-images.githubusercontent.com/86523368/128086649-1a08d5cb-57eb-47bd-b55a-048397f91b27.png)
