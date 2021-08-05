@@ -17,3 +17,7 @@ Hopefully fixed banner not stretching across page
 [4/08/2021]
 Fixed Main HTML's colorscheme to match that of page 2's
 ![image](https://user-images.githubusercontent.com/86523368/128086649-1a08d5cb-57eb-47bd-b55a-048397f91b27.png)
+
+[6/08/2021]
+![image](https://user-images.githubusercontent.com/86523368/128431469-d7b6d8d0-12da-4d5b-b41a-fe56f33255c8.png)
+Made header more sexy :trollface:
