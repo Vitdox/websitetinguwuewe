@@ -21,3 +21,6 @@ Fixed Main HTML's colorscheme to match that of page 2's
 [6/08/2021]
 ![image](https://user-images.githubusercontent.com/86523368/128431469-d7b6d8d0-12da-4d5b-b41a-fe56f33255c8.png)
 Made header more sexy :trollface:
+[6/08/2021]
+![image](https://user-images.githubusercontent.com/86523368/128434466-08b4fa0c-e117-437e-bb35-9a968c748d12.png)
+Added embeded twitter scraper to view news on the emulators
