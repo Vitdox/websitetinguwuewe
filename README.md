@@ -1,170 +1,30 @@
-# School Repo
-## Main Repo for my school work
-This Repo contains my websites and other stuff
-For better work of mine see my other repo's and gists 
-![fred 2 electric boogaloo](https://user-images.githubusercontent.com/86523368/127228031-9d02701c-e870-4d13-bcf4-f8e8be653ded.png)
+# My Weird Emulation Website
 
+This website is basically a libary of emulatable games and the emulators thaet can run them, The intent of this website is to inform and advertise the wonderful world of game archiving and it also teaches people how to download install and run emulators and ROM's
 
+## Downoading
 
 
+```bash
+pip install foobar
+```
 
+## Usage
 
+```python
+import joe
 
+# returns 'words'
+foobar.pluralize('word')
 
+# returns 'geese'
+foobar.pluralize('goose')
 
+# returns 'phenomenon'
+foobar.singularize('phenomena')
+```
 
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-character:added script.parent:destroy
+Please make sure to update tests as appropriate
