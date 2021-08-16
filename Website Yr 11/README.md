@@ -29,3 +29,6 @@ Made header more sexy :trollface:
 [6/08/2021]
 ![image](https://user-images.githubusercontent.com/86523368/128434466-08b4fa0c-e117-437e-bb35-9a968c748d12.png)
 Added embeded twitter scraper to view news on the emulators
+[17/08/2021]
+Added Parallax scrolling to website along with filler text (Hard to portray in image but you'll have to trust me)
+![image](https://user-images.githubusercontent.com/86523368/129642062-73e734e7-ade7-4b0e-81a6-8b8377e55ddb.png)
