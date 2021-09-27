@@ -32,3 +32,8 @@ Added embeded twitter scraper to view news on the emulators
 [17/08/2021]
 Added Parallax scrolling to website along with filler text (Hard to portray in image but you'll have to trust me)
 ![image](https://user-images.githubusercontent.com/86523368/129642062-73e734e7-ade7-4b0e-81a6-8b8377e55ddb.png)
+
+[28/09/2021]
+Bringing website back to theme of woodwork because SOME PEOPLE dont like perfection
+![image](https://user-images.githubusercontent.com/86523368/134993711-19438274-984d-428e-b0a2-f5199e1d4c65.png)
+
