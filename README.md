@@ -1,7 +1,11 @@
-# My Weird Emulation Website
+# My Weird  Website
 
-This website is basically a libary of emulatable games and the emulators thaet can run them, The intent of this website is to inform and advertise the wonderful world of game archiving and it also teaches people how to download install and run emulators and ROM's
+This website was basically a libary of emulatable games and the emulators thaet can run them, The intent of this website is to inform and advertise the wonderful world of game archiving and it also teaches people how to download install and run emulators and ROM's
 
+now its just
+woodwork
+i think
+maybe
 ## Downoading
 
 
