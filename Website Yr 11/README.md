@@ -34,7 +34,7 @@ Added Parallax scrolling to website along with filler text (Hard to portray in i
 ![image](https://user-images.githubusercontent.com/86523368/129642062-73e734e7-ade7-4b0e-81a6-8b8377e55ddb.png)
 
 [28/09/2021]
-Bringing website back to theme of woodwork because SOME PEOPLE dont like perfection
+Bringing website back to theme of woodwork
 ![image](https://user-images.githubusercontent.com/86523368/134993711-19438274-984d-428e-b0a2-f5199e1d4c65.png)
 Color schem M2 itteration 1
 ![image](https://user-images.githubusercontent.com/86523368/134994666-5dbc2656-cb2c-454b-98b9-f8c0864aac79.png)
