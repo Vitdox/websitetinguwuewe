@@ -1,3 +1,117 @@
 .grid-container {
   display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #151414;
+  padding: 10px;
 }
+.grid-item {
+  background-color: #AF9B8C;
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+ul {
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #AF9B8C;
+  }
+  p {
+  color: rgb(255, 255, 255);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(255, 255, 255);
+  }
+  body {
+  background-color: #252422;
+  }
+  li {
+  float: left;
+  }
+  a {
+  font-size: 50px;
+  padding: 0px;
+  background-color: #AF9B8C;
+  color: #ffffff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+  .parallax {
+  /* The image  */
+  background-image: url("https://images2.imgix.net/p4dbimg/933/images/185214569nobgwpath1.jpg?trim=color&trimcolor=FFFFFF&trimtol=5&dl=1852K-1EKKIT.jpg&fm=jpg&auto=format");
+  /*    height */
+  min-height: 90px;
+  /*  the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+  .header {
+  padding: 2px;
+  text-align: center;
+  background: #AF9B8C;
+  color: white;
+  font-size: 50px;
+  font-family: 'serifLucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-
+  }
+  li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 4px 16px;
+  text-decoration: none;
+  }
+  li a:hover {
+  background-color: #D3B198;
+  }
+  /* Dropdown Button */
+  .dropbtn {
+  background-color: rgb(114, 137, 218);
+  color: white;
+  padding: 16px;
+  font-size: 40px;
+  border: none;
+  }
+  /* Pos */
+  .dropdown {
+  position: relative;
+  display: inline-block;
+  }
+  /* DPD CNTNT */
+  .dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #475b63;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  }
+  /* Links */
+  .dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  }
+  /* change color */
+  .dropdown-content a:hover {background-color: #ddd;}
+  /* show  */
+  .dropdown:hover .dropdown-content {display: block;}
+  /* change */
+  .dropdown:hover .dropbtn {background-color: #23272a;}
+  .grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: rgba(255, 255, 255);
+  padding: 10px;
+  }
+  .grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  }
